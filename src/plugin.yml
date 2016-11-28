@@ -1,0 +1,8 @@
+name: FactionGUI
+version: 1
+main: fr.colin.factiongui.FactionGUI
+author: coco33920
+website: massivecraft.com
+commands:
+  fguiadmin:
+  fgui:
